@@ -1,0 +1,16 @@
+try:
+    f=open("myfile","w")
+    a,b=[int(x) for x in input("Enter 2 numbers: ").split()]
+    c=a/b
+    f.write("Writing %d into file"%c)
+    print(c)
+except ZeroDivisionError:
+    print("Division by 0 is not allowed")
+    print("Please enter non zero number")
+else:
+    print("You have entered a non zero number")
+finally:
+    f.close()
+    print("file closed")
+print("Code after exception")
+    

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PrintAndInput/inputfun&apos; to &apos;inputfun.py&apos;" description="Rename resource &apos;inputfun&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="inputfun" name="inputfun.py" stamp="1550568740012" updateReferences="true"/>
+</session>

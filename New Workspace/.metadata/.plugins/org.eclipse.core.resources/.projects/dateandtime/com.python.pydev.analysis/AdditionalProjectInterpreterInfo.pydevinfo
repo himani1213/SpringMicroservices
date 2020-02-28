@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\dateandtime\com.python.pydev.analysis\v2_indexcache
+combinedateandtime|1551786674613166000|C:\Barclays\New Workspace\dateandtime\combinedateandtime.py
+datesort|1551852550956411000|C:\Barclays\New Workspace\dateandtime\datesort.py
+dtdemo|1551786071649809000|C:\Barclays\New Workspace\dateandtime\dtdemo.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=C:\Barclays\New Workspace\dateandtime\combinedateandtime.py
+3=C:\Barclays\New Workspace\dateandtime\datesort.py
+2=combinedateandtime
+4=datesort
+6=dtdemo
+5=C:\Barclays\New Workspace\dateandtime\dtdemo.py
+-- END DICTIONARY
+-- START TREE 1
+10
+d|1|d!1^3#1*19@
+d1|1|d1!3^6#1*35@
+d2|1|d2!3^7#1*35@
+d3|1|d3!3^8#1*35@
+dt|2|dt!1^5#1*19@dt!5^8#1*51@
+end|1|end_time!3^21#1*35@
+epo|1|epochseconds!5^2#1*51@
+lda|1|ldates!3^5#1*35@
+sta|1|start_time!3^4#1*35@
+t|2|t!1^4#1*19@t!5^5#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

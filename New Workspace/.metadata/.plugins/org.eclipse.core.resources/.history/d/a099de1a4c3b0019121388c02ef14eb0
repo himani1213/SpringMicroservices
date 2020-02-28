@@ -1,0 +1,7 @@
+import logging
+
+logging.error("Error")
+logging.critical("Error")
+logging.warn("Error")
+logging.debug("Error")
+logging.info("Error")

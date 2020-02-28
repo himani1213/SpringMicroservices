@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\exceptionhandling\com.python.pydev.analysis\v2_indexcache
+assertdemo|1551354126306318000|C:\Barclays\New Workspace\exceptionhandling\assertdemo.py
+loggingdemo|1551353505759282000|C:\Barclays\New Workspace\exceptionhandling\loggingdemo.py
+demo|1551353902045822000|C:\Barclays\New Workspace\exceptionhandling\demo.py
+customexception|1551355027649608000|C:\Barclays\New Workspace\exceptionhandling\customexception.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+6=assertdemo
+3=C:\Barclays\New Workspace\exceptionhandling\demo.py
+1=C:\Barclays\New Workspace\exceptionhandling\customexception.py
+7=InvalidPasswordException
+4=demo
+2=customexception
+5=C:\Barclays\New Workspace\exceptionhandling\assertdemo.py
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!1^5#1*19@
+c|1|c!3^8#5*35@
+f|1|f!3^5#5*35@
+inv|1|InvalidPasswordException!1^1#7*17@
+num|1|num!5^2#5*51@
+-- END TREE
+-- START TREE 2
+1
+__i|1|__init__!7&1^2#9*18@
+-- END TREE

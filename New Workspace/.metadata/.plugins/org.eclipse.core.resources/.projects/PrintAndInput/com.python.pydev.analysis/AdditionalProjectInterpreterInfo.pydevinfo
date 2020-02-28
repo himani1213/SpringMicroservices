@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\PrintAndInput\com.python.pydev.analysis\v2_indexcache
+printfun|1550569785162905000|C:\Barclays\New Workspace\PrintAndInput\printfun.py
+inputfun|1550569058227301000|C:\Barclays\New Workspace\PrintAndInput\inputfun.py
+primeNumber|1550638349015149000|C:\Barclays\New Workspace\PrintAndInput\primeNumber.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=C:\Barclays\New Workspace\PrintAndInput\printfun.py
+1=C:\Barclays\New Workspace\PrintAndInput\inputfun.py
+4=printfun
+2=inputfun
+5=C:\Barclays\New Workspace\PrintAndInput\primeNumber.py
+6=primeNumber
+-- END DICTIONARY
+-- START TREE 1
+8
+i|1|i!1^5#1*19@
+lst|1|lst!1^9#1*19@
+mar|1|marks!3^10#1*35@
+n|1|n!5^2#1*51@
+nam|1|name!3^9#1*35@
+pri|1|primeFlag!5^3#1*51@
+r|1|r!5^4#1*51@
+s|1|s!1^1#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

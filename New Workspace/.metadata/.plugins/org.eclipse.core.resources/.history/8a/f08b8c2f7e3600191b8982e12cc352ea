@@ -1,0 +1,10 @@
+x=int(input("Enter min number"))
+y=int(input("Enter max number"))
+i=x
+while(i<=y and i%2!=0):
+    print(i)
+    if(i%2!=0):
+        i+=2
+    else:
+        i+=1    
+    

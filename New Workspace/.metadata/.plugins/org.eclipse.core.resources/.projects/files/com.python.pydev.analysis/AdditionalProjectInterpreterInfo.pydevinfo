@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\files\com.python.pydev.analysis\v2_indexcache
+pickledump|1551432796384905000|C:\Barclays\New Workspace\files\pickledump.py
+read|1551432421366686000|C:\Barclays\New Workspace\files\read.py
+student|1551432641009494000|C:\Barclays\New Workspace\files\student.py
+write|1551432203622047000|C:\Barclays\New Workspace\files\write.py
+pickleload|1551432891884497000|C:\Barclays\New Workspace\files\pickleload.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=pickledump
+8=read
+1=C:\Barclays\New Workspace\files\pickledump.py
+5=C:\Barclays\New Workspace\files\pickleload.py
+9=C:\Barclays\New Workspace\files\student.py
+3=C:\Barclays\New Workspace\files\write.py
+10=student
+11=Student
+4=write
+7=C:\Barclays\New Workspace\files\read.py
+12=Student.__init__
+6=pickleload
+-- END DICTIONARY
+-- START TREE 1
+4
+f|4|f!1^3#1*19@f!3^1#1*35@f!5^3#1*51@f!7^4#5*67@
+obj|1|obj!5^4#1*51@
+s|3|s!3^3#1*35@s!7^8#1*67@s!1^4#1*19@
+stu|1|Student!9^1#7*81@
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!11&9^2#9*82@
+dis|1|display!11&9^7#9*82@
+id|1|id!12&9^3#9*83@
+nam|1|name!12&9^4#9*83@
+tes|1|testscore!12&9^5#9*83@
+-- END TREE

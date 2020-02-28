@@ -1,0 +1,9 @@
+class InvalidPasswordException(Exception):
+    def __init__(self,arg):
+        if len(arg)<8:
+            print("Password should be atleast 8 characters")
+        
+try:
+    a=input("Enter password")
+except InvalidPasswordException(a):
+    print("Invalid Password Exception")

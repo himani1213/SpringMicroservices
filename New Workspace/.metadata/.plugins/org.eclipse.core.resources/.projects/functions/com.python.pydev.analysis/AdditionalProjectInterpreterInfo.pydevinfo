@@ -1,0 +1,84 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\functions\com.python.pydev.analysis\v2_indexcache
+average|1551021551422560000|C:\Barclays\New Workspace\functions\average.py
+returnfunctions|1551020701382622000|C:\Barclays\New Workspace\functions\returnfunctions.py
+evenoroddfilter|1551075593723069000|C:\Barclays\New Workspace\functions\evenoroddfilter.py
+evenoroddlamda|1551075360711277000|C:\Barclays\New Workspace\functions\evenoroddlamda.py
+doubleusingmap|1551075720724496000|C:\Barclays\New Workspace\functions\doubleusingmap.py
+usesmodule|1551084174151231000|C:\Barclays\New Workspace\functions\usesmodule.py
+doubledecor|1551078484668795000|C:\Barclays\New Workspace\functions\doubledecor.py
+factorial|1551021427492167000|C:\Barclays\New Workspace\functions\factorial.py
+greeting|1551020328717794000|C:\Barclays\New Workspace\functions\greeting.py
+localglobal|1550849067586194000|C:\Barclays\New Workspace\functions\localglobal.py
+mymath|1551084087696786000|C:\Barclays\New Workspace\functions\mymath.py
+stringdecor|1551079189528939000|C:\Barclays\New Workspace\functions\stringdecor.py
+sumlambda|1551075443100332000|C:\Barclays\New Workspace\functions\sumlambda.py
+customgenerator|1551083954549248000|C:\Barclays\New Workspace\functions\customgenerator.py
+lambdafun|1551075279562670000|C:\Barclays\New Workspace\functions\lambdafun.py
+sumusingreduce|1551076457345414000|C:\Barclays\New Workspace\functions\sumusingreduce.py
+calc|1550848837711707000|C:\Barclays\New Workspace\functions\calc.py
+listfunctions|1551021142230923000|C:\Barclays\New Workspace\functions\listfunctions.py
+-- END DISKCACHE
+-- START DICTIONARY
+34
+5=C:\Barclays\New Workspace\functions\calc.py
+4=average
+21=C:\Barclays\New Workspace\functions\factorial.py
+30=evenoroddfilter
+3=C:\Barclays\New Workspace\functions\average.py
+34=doubleusingmap
+14=greeting
+22=factorial
+26=stringdecor
+1=C:\Barclays\New Workspace\functions\sumlambda.py
+2=sumlambda
+11=C:\Barclays\New Workspace\functions\mymath.py
+8=customgenerator
+32=sumusingreduce
+17=C:\Barclays\New Workspace\functions\returnfunctions.py
+9=C:\Barclays\New Workspace\functions\doubledecor.py
+18=returnfunctions
+28=evenoroddlamda
+10=doubledecor
+27=C:\Barclays\New Workspace\functions\evenoroddlamda.py
+31=C:\Barclays\New Workspace\functions\sumusingreduce.py
+12=mymath
+16=localglobal
+23=C:\Barclays\New Workspace\functions\listfunctions.py
+13=C:\Barclays\New Workspace\functions\greeting.py
+29=C:\Barclays\New Workspace\functions\evenoroddfilter.py
+15=C:\Barclays\New Workspace\functions\localglobal.py
+19=C:\Barclays\New Workspace\functions\lambdafun.py
+20=lambdafun
+6=calc
+24=listfunctions
+25=C:\Barclays\New Workspace\functions\stringdecor.py
+33=C:\Barclays\New Workspace\functions\doubleusingmap.py
+7=C:\Barclays\New Workspace\functions\customgenerator.py
+-- END DICTIONARY
+-- START TREE 1
+19
+add|1|add!1^1#5*18@
+ave|1|average!3^1#5*34@
+cal|1|calc!5^1#5*50@
+cus|1|customgen!7^1#5*66@
+dec|1|decor!9^1#5*82@
+dif|1|diff!11^11#5*98@
+dis|3|display!13^1#5*114@display!15^3#5*130@display!17^1#5*146@
+f|1|f!19^6#1*163@
+fac|1|factorial!21^1#5*178@
+fun|2|fun!17^6#1*147@fun!23^1#5*194@
+hel|1|hello!25^7#5*210@
+how|1|howareyou!25^1#5*210@
+l|2|l!1^7#1*19@l!27^1#1*227@
+lst|3|lst!29^1#1*243@lst!31^3#1*259@lst!33^1#1*275@
+num|2|num!9^8#5*82@num2!9^12#5*82@
+res|5|result!33^3#1*275@result!5^8#1*51@result!7^7#1*67@result!29^3#1*243@result!31^5#1*259@
+sum|1|sum!11^8#5*98@
+x|1|x!15^1#1*131@
+z|1|z!15^10#1*131@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

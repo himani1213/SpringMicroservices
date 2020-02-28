@@ -1,0 +1,6 @@
+CRITICAL:root:Critical
+ERROR:root:Error
+ERROR:root:Division by zero
+INFO:root:Division in progress
+ERROR:root:Division by zero
+INFO:root:File closed

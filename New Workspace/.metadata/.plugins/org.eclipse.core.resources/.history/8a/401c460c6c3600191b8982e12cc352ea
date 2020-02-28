@@ -1,0 +1,14 @@
+maths = int(input("Enter maths mark: "))
+physics = int(input("Enter physics mark: "))
+chemistry = int(input("Enter chemistry mark: "))
+
+if maths and physics and chemistry > 35:
+    avg = sum([maths, physics, chemistry]) / 3
+    if avg <= 59:
+        print("Grade is C")
+    elif avg <= 69:
+        print("Grade is B")
+    else:
+        print("Grade is A")
+else:
+    print("FAILED")

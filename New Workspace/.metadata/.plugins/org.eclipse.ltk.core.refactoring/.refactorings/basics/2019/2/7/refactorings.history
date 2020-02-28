@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;basics/numerictypespy&apos; to &apos;numerictypes.py&apos;" description="Rename resource &apos;numerictypespy&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="numerictypespy" name="numerictypes.py" stamp="1550135109812" updateReferences="true"/>
+</session>

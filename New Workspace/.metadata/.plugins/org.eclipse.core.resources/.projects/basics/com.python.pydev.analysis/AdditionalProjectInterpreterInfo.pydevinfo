@@ -1,0 +1,60 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\basics\com.python.pydev.analysis\v2_indexcache
+stringtype|1550224304224380000|C:\Barclays\New Workspace\basics\stringtype.py
+numerictypes|1550223408614597000|C:\Barclays\New Workspace\basics\numerictypes.py
+settype|1550481566177920000|C:\Barclays\New Workspace\basics\settype.py
+tupletype|1550471529513552000|C:\Barclays\New Workspace\basics\tupletype.py
+rangetype|1550471995742775000|C:\Barclays\New Workspace\basics\rangetype.py
+bytesandarrays|1550473802185089000|C:\Barclays\New Workspace\basics\bytesandarrays.py
+hello|1550134799491332000|C:\Barclays\New Workspace\basics\hello.py
+listtype|1550475334830141000|C:\Barclays\New Workspace\basics\listtype.py
+dicttype|1550473558271478000|C:\Barclays\New Workspace\basics\dicttype.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+16=stringtype
+8=settype
+4=bytesandarrays
+7=C:\Barclays\New Workspace\basics\settype.py
+5=C:\Barclays\New Workspace\basics\dicttype.py
+9=C:\Barclays\New Workspace\basics\tupletype.py
+3=C:\Barclays\New Workspace\basics\bytesandarrays.py
+15=C:\Barclays\New Workspace\basics\stringtype.py
+13=C:\Barclays\New Workspace\basics\rangetype.py
+2=numerictypes
+10=tupletype
+14=rangetype
+11=C:\Barclays\New Workspace\basics\listtype.py
+1=C:\Barclays\New Workspace\basics\numerictypes.py
+12=listtype
+6=dicttype
+-- END DICTIONARY
+-- START TREE 1
+22
+a|1|a!1^1#1*19@
+b|2|b!3^3#1*35@b!1^2#1*19@
+b1|1|b1!3^7#1*35@
+c|1|c!1^3#1*19@
+d|1|d!1^12#1*19@
+dic|1|dict1!5^1#1*51@
+e|1|e!1^16#1*19@
+f|2|f!1^20#1*19@f!7^9#1*67@
+g|1|g!1^26#1*19@
+h|1|h!1^31#1*19@
+i|1|i!1^34#1*19@
+k|1|k!5^5#1*51@
+lst|3|lst!9^8#1*83@lst!11^1#1*99@lst!3^1#1*35@
+o|1|o!1^23#1*19@
+r|1|r!13^1#1*115@
+s|2|s!7^1#1*67@s!15^1#1*131@
+s1|1|s1!15^7#1*131@
+tpl|2|tpl!9^1#1*83@tpl1!9^10#1*83@
+v|1|v!5^9#1*51@
+x|1|x!1^7#1*19@
+y|1|y!1^8#1*19@
+z|1|z!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

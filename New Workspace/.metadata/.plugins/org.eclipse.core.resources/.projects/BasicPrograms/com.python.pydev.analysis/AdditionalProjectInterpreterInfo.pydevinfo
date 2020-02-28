@@ -1,0 +1,71 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\BasicPrograms\com.python.pydev.analysis\v2_indexcache
+assertdemo|1550827043825696000|C:\Barclays\New Workspace\BasicPrograms\assertdemo.py
+funasparameter|1550657223425110000|C:\Barclays\New Workspace\BasicPrograms\funasparameter.py
+breakdemo|1550826754743653000|C:\Barclays\New Workspace\BasicPrograms\breakdemo.py
+averageNumbers|1550656922792938000|C:\Barclays\New Workspace\BasicPrograms\averageNumbers.py
+controlprog|1550828937170739000|C:\Barclays\New Workspace\BasicPrograms\controlprog.py
+subjects|1550817330245282000|C:\Barclays\New Workspace\BasicPrograms\subjects.py
+multiplicationtable|1550826419350113000|C:\Barclays\New Workspace\BasicPrograms\multiplicationtable.py
+areaofcircle|1550657094871150000|C:\Barclays\New Workspace\BasicPrograms\areaofcircle.py
+studentdetails|1550656656393176000|C:\Barclays\New Workspace\BasicPrograms\studentdetails.py
+oddnumbers|1550825121274440000|C:\Barclays\New Workspace\BasicPrograms\oddnumbers.py
+whileloop|1550817377340283000|C:\Barclays\New Workspace\BasicPrograms\whileloop.py
+continuedemo|1550826921803761000|C:\Barclays\New Workspace\BasicPrograms\continuedemo.py
+forloop|1550826201055057000|C:\Barclays\New Workspace\BasicPrograms\forloop.py
+commandlineargs|1550833549341238000|C:\Barclays\New Workspace\BasicPrograms\commandlineargs.py
+-- END DISKCACHE
+-- START DICTIONARY
+28
+17=C:\Barclays\New Workspace\BasicPrograms\forloop.py
+21=C:\Barclays\New Workspace\BasicPrograms\breakdemo.py
+28=assertdemo
+22=breakdemo
+9=C:\Barclays\New Workspace\BasicPrograms\oddnumbers.py
+1=C:\Barclays\New Workspace\BasicPrograms\areaofcircle.py
+14=whileloop
+26=continuedemo
+20=commandlineargs
+8=funasparameter
+23=C:\Barclays\New Workspace\BasicPrograms\multiplicationtable.py
+13=C:\Barclays\New Workspace\BasicPrograms\whileloop.py
+19=C:\Barclays\New Workspace\BasicPrograms\commandlineargs.py
+4=averageNumbers
+6=subjects
+12=controlprog
+24=multiplicationtable
+7=C:\Barclays\New Workspace\BasicPrograms\funasparameter.py
+15=C:\Barclays\New Workspace\BasicPrograms\studentdetails.py
+2=areaofcircle
+16=studentdetails
+10=oddnumbers
+11=C:\Barclays\New Workspace\BasicPrograms\controlprog.py
+3=C:\Barclays\New Workspace\BasicPrograms\averageNumbers.py
+18=forloop
+5=C:\Barclays\New Workspace\BasicPrograms\subjects.py
+27=C:\Barclays\New Workspace\BasicPrograms\assertdemo.py
+25=C:\Barclays\New Workspace\BasicPrograms\continuedemo.py
+-- END DICTIONARY
+-- START TREE 1
+16
+are|1|area!1^3#1*19@
+ave|2|average!3^2#1*35@average!5^8#5*51@
+che|1|chemistry!5^3#1*51@
+dis|1|display!7^1#5*66@
+i|3|i!9^3#1*83@i!11^3#1*99@i!13^1#1*115@
+id|1|id!15^1#1*131@
+lst|3|lst!17^1#1*147@lst!19^2#1*163@lst!21^1#1*179@
+mar|1|marks!15^3#1*131@
+mat|1|maths!5^1#1*51@
+n|2|n!11^1#1*99@n!23^1#1*195@
+nam|2|name!7^4#5*66@name!15^2#1*131@
+phy|1|physics!5^2#1*51@
+pro|1|prod!17^2#1*147@
+rad|1|radius!1^2#1*19@
+x|3|x!25^1#1*211@x!27^1#1*227@x!9^1#1*83@
+y|1|y!9^2#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

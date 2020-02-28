@@ -1,0 +1,10 @@
+import re
+str= "Take up one idea.One idea at a time"
+result = re.search(r'o\w', str)
+print(result)
+
+
+result = re.findall(r'o\w\w', str)
+print(result)
+
+result = re.match(r'o\w\w', str)

@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\encapsulation\com.python.pydev.analysis\v2_indexcache
+student|1551181486011344000|C:\Barclays\New Workspace\encapsulation\student.py
+patient|1551181740852262000|C:\Barclays\New Workspace\encapsulation\patient.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+9=Student.setName
+4=student
+2=patient
+6=Patient.__init__
+3=C:\Barclays\New Workspace\encapsulation\student.py
+5=Patient
+7=Student
+8=Student.setId
+1=C:\Barclays\New Workspace\encapsulation\patient.py
+-- END DICTIONARY
+-- START TREE 1
+4
+p|1|p!1^13#1*19@
+pat|1|Patient!1^1#7*17@
+s|1|s!3^18#1*35@
+stu|1|Student!3^1#7*33@
+-- END TREE
+-- START TREE 2
+8
+__i|2|__init__!5&1^2#9*18@__id!6&1^3#9*19@
+__n|1|__name!6&1^4#9*19@
+__s|1|__ssn!6&1^5#9*19@
+dis|1|display!5&1^8#9*18@
+get|2|getId!7&3^5#9*34@getName!7&3^9#9*34@
+id|1|id!8&3^4#9*35@
+nam|1|name!9&3^8#9*35@
+set|2|setId!7&3^3#9*34@setName!7&3^7#9*34@
+-- END TREE

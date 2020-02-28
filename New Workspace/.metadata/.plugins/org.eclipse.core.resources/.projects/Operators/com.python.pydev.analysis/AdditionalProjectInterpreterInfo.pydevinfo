@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Operators\com.python.pydev.analysis\v2_indexcache
+logicaloperator|1550482980853573000|C:\Barclays\New Workspace\Operators\logicaloperator.py
+assignmentoperators|1550482714130723000|C:\Barclays\New Workspace\Operators\assignmentoperators.py
+comparisonoperator|1550482847199957000|C:\Barclays\New Workspace\Operators\comparisonoperator.py
+arithmeticoperators|1550481797046620000|C:\Barclays\New Workspace\Operators\arithmeticoperators.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=logicaloperator
+2=assignmentoperators
+3=C:\Barclays\New Workspace\Operators\logicaloperator.py
+1=C:\Barclays\New Workspace\Operators\assignmentoperators.py
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!1^1#1*19@
+b|1|b!1^1#3*19@
+c|1|c!1^1#5*19@
+x|1|x!3^1#1*35@
+y|1|y!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

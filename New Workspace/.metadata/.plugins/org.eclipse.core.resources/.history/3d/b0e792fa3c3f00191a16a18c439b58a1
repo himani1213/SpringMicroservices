@@ -1,0 +1,5 @@
+from datetime import *
+
+d = date(2018,7,21)
+t = time(12,45)
+datetime.combine(d,t)

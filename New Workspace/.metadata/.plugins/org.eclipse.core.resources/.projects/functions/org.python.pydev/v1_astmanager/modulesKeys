@@ -1,0 +1,19 @@
+MODULES_MANAGER_V2
+average|C:\Barclays\New Workspace\functions\average.py
+calc|C:\Barclays\New Workspace\functions\calc.py
+customgenerator|C:\Barclays\New Workspace\functions\customgenerator.py
+doubledecor|C:\Barclays\New Workspace\functions\doubledecor.py
+doubleusingmap|C:\Barclays\New Workspace\functions\doubleusingmap.py
+evenoroddfilter|C:\Barclays\New Workspace\functions\evenoroddfilter.py
+evenoroddlamda|C:\Barclays\New Workspace\functions\evenoroddlamda.py
+factorial|C:\Barclays\New Workspace\functions\factorial.py
+greeting|C:\Barclays\New Workspace\functions\greeting.py
+lambdafun|C:\Barclays\New Workspace\functions\lambdafun.py
+listfunctions|C:\Barclays\New Workspace\functions\listfunctions.py
+localglobal|C:\Barclays\New Workspace\functions\localglobal.py
+mymath|C:\Barclays\New Workspace\functions\mymath.py
+returnfunctions|C:\Barclays\New Workspace\functions\returnfunctions.py
+stringdecor|C:\Barclays\New Workspace\functions\stringdecor.py
+sumlambda|C:\Barclays\New Workspace\functions\sumlambda.py
+sumusingreduce|C:\Barclays\New Workspace\functions\sumusingreduce.py
+usesmodule|C:\Barclays\New Workspace\functions\usesmodule.py

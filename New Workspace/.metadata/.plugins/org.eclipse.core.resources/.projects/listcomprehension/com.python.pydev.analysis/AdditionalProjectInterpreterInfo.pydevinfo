@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Barclays\New Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\listcomprehension\com.python.pydev.analysis\v2_indexcache
+common|1551088555241624000|C:\Barclays\New Workspace\listcomprehension\common.py
+productoflist|1551087606516205000|C:\Barclays\New Workspace\listcomprehension\productoflist.py
+cubeofnumbers|1551084813391028000|C:\Barclays\New Workspace\listcomprehension\cubeofnumbers.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=productoflist
+4=common
+3=C:\Barclays\New Workspace\listcomprehension\common.py
+6=cubeofnumbers
+5=C:\Barclays\New Workspace\listcomprehension\cubeofnumbers.py
+1=C:\Barclays\New Workspace\listcomprehension\productoflist.py
+-- END DICTIONARY
+-- START TREE 1
+5
+a|2|a!1^1#1*19@a!3^1#1*35@
+b|2|b!3^2#1*35@b!1^2#1*19@
+lst|1|lst!5^1#1*51@
+res|1|result!3^4#1*35@
+z|1|z!1^4#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

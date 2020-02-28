@@ -1,0 +1,67 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: productmicro
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+  
+server:
+  port: 8080
+  #servlet:
+   # context-path: /ms
+---
+spring:
+  profiles: dev
+  h2:
+    console:
+      enabled: true
+      path: /h2 
+  datasource:
+    url: jdbc:h2:mem:myDb;DB_CLOSE_DELAY=-1
+    username: sa
+    password: 
+   # driver-class-name: org.h2.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+        show_sql: false
+        ddl-auto: create-drop
+greeting: 
+  Hey hey hey
+management:
+  server:
+    port:9090
+
+logging:
+  level:
+    root: INFO
+    com.ms: DEBUG
+    
+    
+---
+
+spring:
+  application:
+    name: productmicroms
+  server:
+    port: 0
+  profiles: dev
+
+eureka:
+  instance:
+    instanceId: ${spring.application.name}:${random.int}
+    leaseRenewalIntervalInSeconds: 2
+    leaseExpirationDurationInSeconds: 5
+    preferIpAddress: true
+    metadata-map:
+      zone: zone_8761
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    prefer-same-zone-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka

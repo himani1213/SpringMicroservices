@@ -1,0 +1,31 @@
+package synchronizedPack;
+
+public class ParkingStats {
+	private long numberCars;
+	private long numberMotorCycles;
+	
+	private ParkingCash cash;
+	
+	public ParkingStats(ParkingCash cash) {
+		numberCars =0;
+		numberMotorCycles=0;
+		this.cash = cash;
+	}
+	
+	public long carComein() {
+		return numberCars++;
+	}
+
+	public long carGoout() {
+		return numberCars--;
+	}
+	
+	public long motoComein() {
+		return numberMotorCycles++;
+	}
+	
+	public long motoGoout() {
+		return numberMotorCycles--;
+	}
+	
+}

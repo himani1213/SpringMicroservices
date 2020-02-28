@@ -1,0 +1,9 @@
+
+msquid:S1068
+"5Remove this unused "helloWorldService" private field.(‹ì…öüÿÿÿÿ8‹øÇïÕ-HrRMAJORZ
+CODE_SMELL
+˜squid:S1450
+"`Remove the "helloWorldService" field and declare it as a local variable in the relevant methods.(‹ì…öüÿÿÿÿ8ŒøÇïÕ-HsRMINORZ
+CODE_SMELL
+¼squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉŒÝµúÿÿÿÿ8ŒøÇïÕ-HtRCRITICALZ
+CODE_SMELL

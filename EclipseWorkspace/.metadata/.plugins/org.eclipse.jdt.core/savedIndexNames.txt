@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Barclays\EclipseWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+358026907.index
+1361306621.index
+2466258484.index
+2468637415.index
+3705799423.index
+1273636822.index
+2742615270.index
+2820204977.index
+1409027249.index
+4289598612.index
+542663405.index
+921249465.index
+3543022044.index
+3478714341.index
+629946602.index
+808590682.index
+1278271690.index
+231435405.index
+1987768941.index

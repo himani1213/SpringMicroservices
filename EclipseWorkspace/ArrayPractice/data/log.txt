@@ -1,0 +1,78 @@
+Main status of thread 0 : NEW
+Main status of thread 1 : NEW
+Main status of thread 2 : NEW
+Main status of thread 3 : NEW
+Main status of thread 4 : NEW
+Main status of thread 5 : NEW
+Main status of thread 6 : NEW
+Main status of thread 7 : NEW
+Main status of thread 8 : NEW
+Main status of thread 9 : NEW
+Id10 - NameMy Thread 0
+Priority10
+Old statenull
+New stateTERMINATED
+Id11 - NameMy Thread 1
+Priority1
+Old statenull
+New stateRUNNABLE
+Id12 - NameMy Thread 2
+Priority10
+Old statenull
+New stateTERMINATED
+Id13 - NameMy Thread 3
+Priority1
+Old statenull
+New stateRUNNABLE
+Id14 - NameMy Thread 4
+Priority10
+Old statenull
+New stateTERMINATED
+Id15 - NameMy Thread 5
+Priority1
+Old statenull
+New stateRUNNABLE
+Id16 - NameMy Thread 6
+Priority10
+Old statenull
+New stateTERMINATED
+Id17 - NameMy Thread 7
+Priority1
+Old statenull
+New stateRUNNABLE
+Id18 - NameMy Thread 8
+Priority10
+Old statenull
+New stateRUNNABLE
+Id19 - NameMy Thread 9
+Priority1
+Old statenull
+New stateRUNNABLE
+Id18 - NameMy Thread 8
+Priority10
+Old stateRUNNABLE
+New stateBLOCKED
+Id18 - NameMy Thread 8
+Priority10
+Old stateBLOCKED
+New stateTERMINATED
+Id15 - NameMy Thread 5
+Priority1
+Old stateRUNNABLE
+New stateTERMINATED
+Id19 - NameMy Thread 9
+Priority1
+Old stateRUNNABLE
+New stateTERMINATED
+Id11 - NameMy Thread 1
+Priority1
+Old stateRUNNABLE
+New stateTERMINATED
+Id13 - NameMy Thread 3
+Priority1
+Old stateRUNNABLE
+New stateTERMINATED
+Id17 - NameMy Thread 7
+Priority1
+Old stateRUNNABLE
+New stateTERMINATED

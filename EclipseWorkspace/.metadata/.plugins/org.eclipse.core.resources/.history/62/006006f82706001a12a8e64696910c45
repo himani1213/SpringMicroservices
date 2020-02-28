@@ -1,0 +1,21 @@
+package synchronizedPack;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		ParkingCash cash = new ParkingCash();
+		ParkingStats stats = new ParkingStats(cash);
+		System.out.println("Parking Simulator: ");
+		
+		int numSensors = 2* Runtime.getRuntime().availableProcessors();
+		Thread threads[] = new Thread[numSensors];
+		for(int i=0;i<threads.length;i++) {
+			Sensor sensor = new Sensor(stats);
+			Thread thread = new Thread(sensor);
+			thread.start();
+			threads[i] = thread;
+		}
+	}
+
+}

@@ -1,0 +1,6 @@
+projectKey=SonarTest
+serverUrl=http://localhost:4950
+serverVersion=7.3.0.15553
+dashboardUrl=http://localhost:4950/dashboard?id=SonarTest
+ceTaskId=AWWKJzLbEcmfU3Irr91G
+ceTaskUrl=http://localhost:4950/api/ce/task?id=AWWKJzLbEcmfU3Irr91G

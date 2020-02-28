@@ -1,0 +1,40 @@
+package arrayPractice;
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+    public static void main(String args[] ) throws Exception {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+        int winTerm =0;
+        int winAnt =0;
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        String s[] = new String[n];
+        for(int i=0;i<n;i++) {
+            if(sc.hasNext()) {
+                 s[i] = sc.next();
+            if(s[i].equals('A')) {
+                winAnt++;
+            }
+            else if(s[i].equals('T')) {
+                winTerm++;
+            }
+            if(i!=0 && s[i-1].equals('A') && s[i].equals('T')) {
+                winTerm++;
+                winAnt--;
+            }
+            }
+           
+        }
+        if(winAnt> winTerm) {
+            System.out.print("Ants");
+        } else if(winAnt< winTerm) {
+            System.out.print("Termites");
+        }else {
+            System.out.print("Tie");
+        }
+    }
+}

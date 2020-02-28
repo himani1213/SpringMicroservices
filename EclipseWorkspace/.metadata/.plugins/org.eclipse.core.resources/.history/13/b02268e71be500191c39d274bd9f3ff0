@@ -1,0 +1,31 @@
+package com.sprinkgframework.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import com.springframework.services.HelloWorldFactory;
+import com.springframework.services.HelloWorldService;
+import com.springframework.services.HelloWorldServiceEngImpl;
+import com.springframework.services.HelloWorldServiceSpanishImpl;
+
+@Configuration
+public class HelloConfig {
+	
+	/*@Bean
+	public HelloWorldFactory getHelloWorldFactory() {
+		return new HelloWorldFactory();
+	}*/
+	@Bean
+	@Profile("eng")
+	public HelloWorldService helloWorldServiceEnglish(HelloWorldFactory factory) {
+		return factory.createHelloWorldService("eng");
+	}
+	
+	@Bean
+	@Profile("spanish")
+	public HelloWorldService helloWorldServiceSpanish(HelloWorldFactory factory) {
+		return factory.createHelloWorldService("spanish");
+	}
+
+}

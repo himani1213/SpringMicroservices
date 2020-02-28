@@ -1,0 +1,13 @@
+
+bsquid:S1197"8Move the array designator from the variable to the type.(˜ƒ|H)RMINORZ
+CODE_SMELL
+dsquid:S1197"8Move the array designator from the variable to the type.(‡Éÿ£H*RMINORZ
+CODE_SMELL
+isquid:S1197"8Move the array designator from the variable to the type.(ÆÉªğûÿÿÿÿH+RMINORZ
+CODE_SMELL
+dsquid:S1197"8Move the array designator from the variable to the type.(ù¤¹H,RMINORZ
+CODE_SMELL
+isquid:S1197"8Move the array designator from the variable to the type.(‹ÊÛ°şÿÿÿÿH-RMINORZ
+CODE_SMELL
+Œsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¹şÛıÿÿÿÿH.RMINORZ
+CODE_SMELL
